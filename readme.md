@@ -7,7 +7,7 @@ Landing Page 的中文又稱為「網站到達頁」，講的是任何一個網�
 [Demo](https://demo.f2e.idv.tw/f2e)
 
 ## Interface
-
+[desktop](https://awayh.github.io/Web_practice_f2e_plan/desktop.pdf)
 
 ## Open Graph
 
